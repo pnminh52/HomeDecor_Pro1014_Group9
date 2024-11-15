@@ -121,21 +121,7 @@
           <?php endforeach;?>
 
         </div>
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-12 text-center">
-            <div class="site-block-27">
-              <ul>
-                <li><a href="#">&lt;</a></li>
-                <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li><a href="#">&gt;</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+
       </div>
 
       <div class="col-md-3 order-1 mb-5 mb-md-0">
@@ -174,25 +160,7 @@
           </div>
           
 
-          <div class="mb-4">
-            <h3 class="mb-3 h6 text-uppercase text-black d-block">Màu sắc </h3>
-            <a href="#" class="d-flex color-item align-items-center">
-              <span class="bg-danger color d-inline-block rounded-circle mr-2"></span> <span class="text-black">Red
-                (2,429)</span>
-            </a>
-            <a href="#" class="d-flex color-item align-items-center">
-              <span class="bg-success color d-inline-block rounded-circle mr-2"></span> <span class="text-black">Green
-                (2,298)</span>
-            </a>
-            <a href="#" class="d-flex color-item align-items-center">
-              <span class="bg-info color d-inline-block rounded-circle mr-2"></span> <span class="text-black">Blue
-                (1,075)</span>
-            </a>
-            <a href="#" class="d-flex color-item align-items-center">
-              <span class="bg-primary color d-inline-block rounded-circle mr-2"></span> <span class="text-black">Purple
-                (1,075)</span>
-            </a>
-          </div>
+          
 
         </div>
       </div>
