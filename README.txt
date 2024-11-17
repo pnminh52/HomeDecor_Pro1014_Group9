@@ -12,4 +12,4 @@ Hệ thống MVC có một folder system dùng để chứa những thư viện 
 Hệ thống MVC có folder public chứa các file như js, css, jquery, ... Đặc biệt nó có một folder upload dùng để chứa hình ảnh upload cho các tin tức và sản phẩm.
 
 
-Tvdsyavdyavdtyv
+zsszusgzucxcxzjnxkznxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzx
