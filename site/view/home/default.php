@@ -110,13 +110,14 @@
               </div>
               <?php endforeach; ?>
             </div>
+            
           </div>
         </div>
       </div>
     </div>
 
 
-    <!-- New Products -->
+
     <div class="site-section block-3 site-blocks-2 bg-light">
       <div class="container">
         <div class="row justify-content-center">
@@ -155,13 +156,26 @@
         </div>
         <div class="row align-items-center">
           <div class="col-md-12 col-lg-7 mb-5">
-            <a href="#"><img src="<?=$CONTENT_SITE_URL?>/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded"></a>
+            <a href="#"><img src="https://nhaxinh.com/wp-content/uploads/2024/01/banner-armchair-nhaxinh-31-1-24.jpg" alt="Image placeholder" class="img-fluid rounded"></a>
           </div>
           <div class="col-md-12 col-lg-5 text-center pl-md-5">
             <h2><a href="<?=$SITE_URL?>/view/shop">Ý tưởng không gian sống </a></h2>
             <p>Với kinh nghiệm hơn 23 năm trong lĩnh vực thiết kế và hoàn thiện nội thất cùng đội ngũ thiết kế chuyên nghiệp, Homedec mang đến giải pháp toàn diện trong nội thất.</p>
             <p><a href="#" class="btn btn-primary btn-sm">Mua Ngay</a></p>
           </div>
+          
+        </div>
+        <div class="row align-items-center">
+         
+          <div class="col-md-12 col-lg-5 text-center pl-md-5">
+            <h2><a href="<?=$SITE_URL?>/view/shop">Ý tưởng không gian sống </a></h2>
+            <p>Với kinh nghiệm hơn 23 năm trong lĩnh vực thiết kế và hoàn thiện nội thất cùng đội ngũ thiết kế chuyên nghiệp, Homedec mang đến giải pháp toàn diện trong nội thất.</p>
+            <p><a href="#" class="btn btn-primary btn-sm">Mua Ngay</a></p>
+          </div>
+          <div class="col-md-12 col-lg-7 mb-5">
+            <a href="#"><img src="<?=$CONTENT_SITE_URL?>/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded"></a>
+          </div>
+          
         </div>
       </div>
     </div>
