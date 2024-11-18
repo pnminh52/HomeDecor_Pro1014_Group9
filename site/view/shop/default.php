@@ -95,13 +95,7 @@
                 <div class="block-4-text p-4">
                   <h3><a href="<?=$SITE_URL?>/view/detailproduct?id=<?=$search['prodId']?>"><?php echo $search['prodName']; ?></a></h3>
                 </div>
-                <div>
-        <span class="fa fa-star checked"></span>
-        <span class="fa fa-star checked"></span>
-        <span class="fa fa-star checked"></span>
-        <span class="fa fa-star checked"></span>
-        <span class="fa fa-star checked"></span>
-        </div>
+ 
                 <div class="block-4-text d-flex justify-content-center align-items-center mb-3">
                   <span class="text-primary font-weight-bold mr-3 ">
                   <?php echo $search['price'] . '$'; ?>
