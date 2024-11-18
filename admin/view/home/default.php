@@ -1,1 +1,1 @@
-<div>default.php page</div>
+<div>day la trang default trong folder home</div>
