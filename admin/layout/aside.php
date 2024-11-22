@@ -60,6 +60,13 @@
               </a>
 
             </li>
+            <li class="menu-item">
+              <a href="<?=$SITE_URL?>/" class="menu-link">
+                <i class="menu-icon tf-icons bx bx-layout"></i>
+                <div data-i18n="Layouts">Quay lại trang chủ</div>
+              </a>
+
+            </li>
 
         
             
